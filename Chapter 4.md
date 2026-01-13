@@ -1,10 +1,7 @@
-
-## Chapter 4  
-Request & Response Models (Schemas)  
+ ## Request & Response Models (Schemas)  
 Teaching Your API How to Speak in Organized Data
 
 ## The Goal of This Chapter
-
 You’ve built simple endpoints using strings and numbers.  
 Now it’s time to teach your API to handle real-world data like user info, orders, or posts  
 — in a structured, reliable way.
@@ -18,7 +15,6 @@ By the end of this chapter, you’ll know:
 - How Django Ninja automatically validates and documents your data
 
 ## What Is a Schema?
-
 A Schema is a Python class that describes the shape of your data.
 
 For example, if you’re building a user registration API, your data might look like this:
