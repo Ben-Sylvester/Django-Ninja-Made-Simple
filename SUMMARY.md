@@ -3,9 +3,9 @@
  [](README.md)
 
 ## Part I – Fundamentals
-* [1. Introduction to Django Ninja](chapters/chapter-01-introduction.md)
-* [2. Setting Up Your Development Environment](chapters/chapter-02-setup.md)
-* [3. Your First Ninja API Project](chapters/chapter-03-first-api.md)
+* [Chapter 1](Introduction to Django Ninja/chapter-01-introduction.md)
+* [Chapter 2](Setting Up Your Development Environment/chapter-02-setup.md)
+* [Chapter 3](Your First Ninja API Project/chapter-03-first-api.md)
 * [4. Organizing API Endpoints](chapters/chapter-04-organizing-endpoints.md)
 * [5. Request & Response Models (Schemas)](chapters/chapter-05-schemas.md)
 * [6. Path & Query Parameters](chapters/chapter-06-params.md)
