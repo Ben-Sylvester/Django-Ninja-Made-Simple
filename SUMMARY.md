@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+ [](README.md)
 
 ## Part I – Fundamentals
 * [1. Introduction to Django Ninja](chapters/chapter-01-introduction.md)
