@@ -1,6 +1,6 @@
-Table of Contents
+## Table of Contents
 Chapter 1: Introduction to Django Ninja...................................................... 1
-## Chapter 2: Setting Up Your Development Environment........................... 5
+Chapter 2: Setting Up Your Development Environment........................... 5
 Chapter 3: Your First Ninja API Project..................................................... 10
 Chapter 4: Organizing API Endpoints..........................................................15
 Chapter 5: Request & Response Models (Schemas)....................................21
@@ -23,6 +23,6 @@ Chapter 21: Real-World Project: Hospital Management System API.....104
 Chapter 22: Deployment & Scaling Django APIs......................................111
 Chapter 23: Interview Questions & Best Practices....................................132
 
-## Acknowledgement............................................................136
+Acknowledgement............................................................136
 References .............................................................................................137
 About the Author...........................................................................................138
