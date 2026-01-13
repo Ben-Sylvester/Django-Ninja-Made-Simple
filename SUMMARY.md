@@ -11,5 +11,5 @@
 * [Chapter 8](<Chapter 8.md>)
 * [Chapter 9](<Chapter 9.md>)
 * [Chapter 10](<Chapter Ten.md>)
-* [📥 Download Full Django Ninja Book](<Download Full Book.md>)
+* [📥 Download Full Django Ninja Made Simple Book](<Download Full Book.md>)
 * [Preface](Preface.md)
