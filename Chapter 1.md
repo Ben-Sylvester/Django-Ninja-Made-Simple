@@ -1,7 +1,5 @@
-
-## Chapter 1  
-Introduction to Django Ninja
-
+ 
+## Introduction to Django Ninja
 Building APIs the Easy Way
 
 ## What Is Django Ninja?
