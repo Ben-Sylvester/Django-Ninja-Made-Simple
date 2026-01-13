@@ -1,4 +1,4 @@
-## Table of Contents
+Table of Contents
 Chapter 1: Introduction to Django Ninja...................................................... 1
 Chapter 2: Setting Up Your Development Environment........................... 5
 Chapter 3: Your First Ninja API Project..................................................... 10
