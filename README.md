@@ -1,7 +1,5 @@
 # Django Ninja Made Simple
 
-####
-
 ***
 
 ## A Beginner-Friendly Guide to Building
