@@ -1,5 +1,5 @@
  ## Building Your First Real API Step by Step
-
+ 
 ## The Goal of This Chapter
 Now that you have Django and Django Ninja installed and running, it’s time to build your  
 first real API.
@@ -9,7 +9,6 @@ first real API.
 - How to organize your code
 - How to accept user input
 - How to return data as JSON
-
 By the end of this chapter, you’ll have a working mini API project.
 
 ## What Is an Endpoint?
