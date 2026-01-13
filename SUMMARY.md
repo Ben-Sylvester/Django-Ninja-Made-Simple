@@ -1,41 +1,30 @@
 # Summary
 
- [](README.md)
-
-## Part I – Fundamentals
-* [Chapter 1](Introduction to Django Ninja/chapter-01-introduction.md)
-* [Chapter 2](Setting Up Your Development Environment/chapter-02-setup.md)
-* [Chapter 3](Your First Ninja API Project/chapter-03-first-api.md)
-* [4. Organizing API Endpoints](chapters/chapter-04-organizing-endpoints.md)
-* [5. Request & Response Models (Schemas)](chapters/chapter-05-schemas.md)
-* [6. Path & Query Parameters](chapters/chapter-06-params.md)
-* [7. Forms & File Uploads](chapters/chapter-07-forms-files.md)
-
-## Part II – Core Concepts
-* [8. Dependency Injection](chapters/chapter-08-dependencies.md)
-* [9. Database Integration with Django ORM](chapters/chapter-09-database.md)
-* [10. SQL Modeling & Advanced Queries](chapters/chapter-10-sql-modeling.md)
-* [11. CRUD Operations](chapters/chapter-11-crud.md)
-
-## Part III – Security
-* [12. Authentication Basics](chapters/chapter-12-auth-basics.md)
-* [13. JWT Authentication](chapters/chapter-13-jwt.md)
-* [14. Role-Based Permissions](chapters/chapter-14-permissions.md)
-
-## Part IV – Advanced Topics
-* [15. Error Handling & Validation](chapters/chapter-15-errors.md)
-* [16. Pagination & Filtering](chapters/chapter-16-pagination.md)
-* [17. Middleware & CORS](chapters/chapter-17-middleware.md)
-* [18. Background Tasks](chapters/chapter-18-background-tasks.md)
-* [19. WebSockets Support](chapters/chapter-19-websockets.md)
-* [20. API Documentation & OpenAPI](chapters/chapter-20-openapi.md)
-
-## Part V – Real World & Deployment
-* [21. Hospital Management System API](chapters/chapter-21-hospital-project.md)
-* [22. Deployment & Scaling Django APIs](chapters/chapter-22-deployment.md)
-* [23. Interview Questions & Best Practices](chapters/chapter-23-interview.md)
+* [Chapter 1](chapter-01-introduction/chapter-01-introduction.md)
+* [Chapter 2](chapter-02-setup/chapter-02-setup.md)
+* [Chapter 3](chapter-03-first-api/chapter-03-first-api.md)
+* [Chapter 4](chapter-04-organizing-endpoints/chapter-04-organizing-endpoints.md)
+* [Chapter 5](chapter-05-schemas/chapter-05-schemas.md)
+* [Chapter 6](chapter-06-params/chapter-06-params.md)
+* [Chapter 7](chapter-07-forms-files/chapter-07-forms-files.md)
+* [Chapter 8](chapter-08-dependencies/chapter-08-dependencies.md)
+* [Chapter 9](chapter-09-database/chapter-09-database.md)
+* [Chapter 10](chapter-10-sql-modeling/chapter-10-sql-modeling.md)
+* [Chapter 11](chapter-11-crud/chapter-11-crud.md)
+* [Chapter 12](chapter-12-auth-basics/chapter-12-auth-basics.md)
+* [Chapter 13](chapter-13-jwt/chapter-13-jwt.md)
+* [Chapter 14](chapter-14-permissions/chapter-14-permissions.md)
+* [Chapter 15](chapter-15-errors/chapter-15-errors.md)
+* [Chapter 16](chapter-16-pagination/chapter-16-pagination.md)
+* [Chapter 17](chapter-17-middleware/chapter-17-middleware.md)
+* [Chapter 18](chapter-18-background-tasks/chapter-18-background-tasks.md)
+* [Chapter 19](chapter-19-websockets/chapter-19-websockets.md)
+* [Chapter 20](chapter-20-openapi/chapter-20-openapi.md)
+* [Chapter 21](chapter-21-hospital-project/chapter-21-hospital-project.md)
+* [Chapter 22](chapter-22-deployment/chapter-22-deployment.md)
+* [Chapter 23](chapter-23-interview/chapter-23-interview.md)
 
 ## Appendix
-* [Acknowledgement](acknowledgement.md)
-* [References](references.md)
-* [About the Author](about.md)
+* [Acknowledgement](acknowledgement/README.md)
+* [References](references/README.md)
+* [About the Author](about/README.md)
