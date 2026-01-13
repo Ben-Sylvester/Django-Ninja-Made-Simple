@@ -1,7 +1,4 @@
-
-## Chapter 2  
-Setting Up Your Development Environment
-
+ ## Setting Up Your Development Environment
 Preparing Your System to Build Django Ninja APIs
 
 ## The Goal of This Chapter
