@@ -1,14 +1,10 @@
-
-## Chapter 3  
-Building Your First Real API Step by Step
+ ## Building Your First Real API Step by Step
 
 ## The Goal of This Chapter
-
 Now that you have Django and Django Ninja installed and running, it’s time to build your  
 first real API.
 
-You’ll learn:
-
+# You’ll learn:
 - How API routes (endpoints) work
 - How to organize your code
 - How to accept user input
@@ -17,7 +13,6 @@ You’ll learn:
 By the end of this chapter, you’ll have a working mini API project.
 
 ## What Is an Endpoint?
-
 An endpoint is simply a URL path your API listens to.
 
 For example:
