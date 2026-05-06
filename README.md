@@ -1,11 +1,19 @@
-**Django Ninja Made Simple**
+# Django Ninja Made Simple
 
-\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___
+---
 
-**A Beginner-Friendly Guide to Building Modern APIs with Python Django Ninja 2<sup>nd</sup> Edition**
+### *A Beginner-Friendly Guide to Building Modern APIs with Python Django Ninja (2nd Edition)*
 
-**Featuring Three Practical Projects §**
+---
 
+![Book Cover](django_ninja_book_cover.png)
+
+---
+
+**Featuring Three Practical Projects**  
 **Step-by-Step Deployment Guide**
 
-#### Author: Benjamin Sylvester
+---
+
+#### Author  
+**Sylvester Benjamin**
